@@ -1,0 +1,14 @@
+body{
+    background-color: #f6f5f5;
+    margin:auto;
+    padding: 0px;
+}
+
+.gambar {
+    width: 200px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: right;
+    
+}
